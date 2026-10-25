@@ -1,5 +1,7 @@
 # vidaa-toolkit
 
+![vidaa-toolkit demo](demo.gif)
+
 Local control for **Hisense VIDAA smart TVs** over their MQTT bus (port `36669`, mutual TLS) — no cloud, no account, fully on your LAN. Send keys, launch apps, **run your own web apps full-screen on the TV**, read live state, and map the firmware's command surface.
 
 > Reverse-engineered for interoperability with a TV you own. Unofficial; not affiliated with or endorsed by Hisense/VIDAA. Topics and auth are undocumented and may change with firmware updates.
