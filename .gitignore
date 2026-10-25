@@ -1,0 +1,23 @@
+# secrets / device-specific — NEVER commit
+config.env
+tokens.json
+*.pem
+*.p12
+*.pfx
+*.bks
+*.key
+*.cer
+*.crt
+
+# downloaded app / extracted data
+*.apk
+*.apkm
+*.xapk
+*.json
+!package.json
+
+# python
+venv/
+__pycache__/
+*.pyc
+.env
